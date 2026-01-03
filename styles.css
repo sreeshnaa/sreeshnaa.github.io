@@ -24,3 +24,12 @@
     text-decoration: none;
     color:white
 }
+.image{
+    display:flex;
+    justify-content: flex-end;
+}
+.box{   
+     margin: 10px;   
+     padding: 10px; 
+     border: 1px gray solid; 
+}
