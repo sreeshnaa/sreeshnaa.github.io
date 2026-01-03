@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    background-color: rgb(73, 0, 128);
+    color: white;
+}
+.footer{
+    background-color: silver;
+}
+.container{
+    margin: 0px;
+}
+*{
+    margin: 0px ;
+}
+.menu{
+    display:flex;
+}
